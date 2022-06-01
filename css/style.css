@@ -40,3 +40,10 @@ border-radius:10px ;
 padding-top: 10px;
     
 }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: aqua;
+  color: white;
+}
